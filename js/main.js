@@ -90,7 +90,7 @@
 
     //typed js
     $(".typed").typed({
-        strings: ["Bukan Superhero.", "Cuman temennya Betmen.", "Bukan hidup dibumi.","Tapi hidup diplanet Tatooine.", "Tidak suka Merokok.", "Sukanya cuman Kamu."],
+        strings: ["Welcome to My Personal Website.", "Aku Bukan Superhero.", "Aku juga Bukan Monster.", "Apalagi Orang Jahat.", "Aku cuman Jodoh Kamu."],
         typeSpeed: 100,
         backDelay: 900,
         // loop
