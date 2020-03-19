@@ -90,7 +90,7 @@
 
     //typed js
     $(".typed").typed({
-        strings: ["Welcome to My Personal Website.", "Aku Bukan Superhero.", "Aku juga Bukan Monster.", "Apalagi Orang Jahat.", "Aku cuman Jodoh Kamu."],
+        strings: ["Hai! Namaku Ikhsan.", "Biasa dipanggil Ikhsan.", "Aku menyukai film film keren.", "Aku juga menyukai beatbox.", "Dan tidak lupa..." , "Akupun menyukai kamu. Hehehe"],
         typeSpeed: 100,
         backDelay: 900,
         // loop
